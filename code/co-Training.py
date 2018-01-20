@@ -40,7 +40,7 @@ test_data = {"CN": [], "EN": []}
 test_goal = {"CN": [], "EN": []}
 test_id = {"CN": [], "EN": []}
 
-rootPath = "E:/OneDrive/语义计算与知识检索/Homework2/新建文件夹/黄梓铭_1501214385_第二次报告"
+rootPath = "coTraining"
 dataPath = rootPath + "/processData"
 trainPath = dataPath + "/Train_EN/"
 testPath = dataPath + "/Test_CN/"
